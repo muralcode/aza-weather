@@ -14,7 +14,7 @@ Swift Best Practises used.
 Currently the app customizations, images and colors are built within the project (for demonstration purposes)
 ## Local build process
 
-It is recommended that the information in the other sections of this document are examined prior to attempting to compile and run the app. For the reasons discussed above, a developer cannot simply clone the repository and run the financialApp
+It is recommended that the information in the other sections of this document are examined prior to attempting to compile and run the app. For the reasons discussed above, a developer cannot simply clone the repository and run the aza-weather app
 
 ### Software Prerequisites
 
